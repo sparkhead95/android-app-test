@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inventor-e Sandbox</string>
+    <string name="btn_push_me">Push me</string>
+    <string name="btn_switch_activity">Switch Activity</string>
+</resources>
